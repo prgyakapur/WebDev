@@ -1,0 +1,17 @@
+{
+  "name": "calculatorwithexpress",
+  "version": "1.0.0",
+  "description": "This is for making a calculator on express server",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon calculator.js"
+  },
+  "author": "Nirmit Khurana",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "nodemon": "^2.0.22"
+  }
+}
